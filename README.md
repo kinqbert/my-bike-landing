@@ -2,6 +2,8 @@
 
 Welcome to the My Bike Landing project! This repository hosts the code for a landing page dedicated to showcasing bicycles.
 
+[DEMO LINK](https://kinqbert.github.io/my-bike-landing/)
+
 ## Overview
 
 My Bike Landing is a visually appealing and responsive landing page designed to promote bicycles. It features a modern design with smooth animations, making it a great example of a static website built with HTML and SCSS.
